@@ -1,0 +1,50 @@
+body{
+
+    background-color: rgb(215, 246, 246);
+    
+}
+.box{
+    border:solid rgb(37, 128, 167) 2px;
+    background-color:rgb(16, 16, 41);
+    color: aliceblue;
+    margin-top: 20px;
+    
+    display: flex;
+    justify-content: center;
+    
+}
+h1{
+    text-shadow: 3px 4px 5px aqua;
+}
+
+.Box{
+    border: solid blue 3px;
+    background-color:white;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.circle{
+    border: rgb(121, 7, 7) 2px;
+    background-color: blue;
+    width: 120px;
+    height: 120px;
+    border-radius: 100px;
+    margin-left: 90px;
+    margin-right: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    margin-top: 20px;
+
+
+
+}
