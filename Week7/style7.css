@@ -7,6 +7,7 @@ body{
     font-family: Arial, sans-serif;
 }
 .navbar{
+    paddig: 20px;
     display:flex;
     justify-content:space-between;
     align-items: center;
@@ -16,6 +17,7 @@ body{
 }
 .logo{
     color: rgb(1, 240, 244);
+    font-size: 18px;
 }
 .nav-links{
     display:flex;
