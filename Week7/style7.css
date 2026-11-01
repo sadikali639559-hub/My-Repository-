@@ -66,3 +66,21 @@ body{
     border: none;
     border-radius: 5px;
 }
+
+
+.card-container {
+    margin:20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    flex: 1 1 200px;
+    background-color: rgb(175, 169, 169);
+    padding: 25px;
+    border: 2px solid blue;
+    border-radius: 10px;
+    text-align: center;
+}
